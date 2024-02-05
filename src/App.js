@@ -39,6 +39,8 @@ export default function Profile() {
         <h1>{user.name}</h1>
         <button className="button" onClick={handleFollowClick}>
           Follow on SoundCloud
+
+          Test
         </button>
         < button className = "button" onClick={handleFollowClick2}>
           Follow on Twitter
